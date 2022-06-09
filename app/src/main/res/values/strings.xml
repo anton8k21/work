@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarterPack</string>
+    <string name="success">Проект успешно настроен!</string>
+    <string name="success_text">Проект настроен и полностью готов к работе</string>
+    <string name="wait">Ожидайте</string>
+    <string name="wait_text">Проверяем, все ли сделано правильно</string>
+</resources>
